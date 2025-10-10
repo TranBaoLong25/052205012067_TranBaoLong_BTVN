@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BÀI THỰC HÀNH TUẦN 2"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/btnBaiTap1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài tập 1: Phân loại tuổi"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnBaiTap2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài tập 2: Kiểm tra Email"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnBaiTap3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài tập 3: Tạo danh sách"/>
+
+</LinearLayout>

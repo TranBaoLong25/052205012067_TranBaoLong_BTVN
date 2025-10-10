@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.BTapTuan2" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.BTapTuan2" parent="Base.Theme.BTapTuan2" />
+</resources>
